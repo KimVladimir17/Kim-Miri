@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,figma,gulp,vue,webpack,python" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,html,css,tailwind,git,figma,python" />
 
 ---
 
@@ -32,18 +32,4 @@
 - 🌐 **Next.js Web App** — SSR, routing, and API integration
 - 🎨 UI / UX experiments and performance improvements
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KimVladimir17&show_icons=true&theme=github_dark&cache_seconds=1800"
-    referrerpolicy="no-referrer"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimVladimir17&layout=compact&theme=github_dark&cache_seconds=1800"
-    referrerpolicy="no-referrer"
-  />
-</p>
 
