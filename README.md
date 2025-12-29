@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,figma,reactnative,python" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,figma,gulp,vue,webpack,python" />
 
 ---
 
